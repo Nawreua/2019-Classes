@@ -1,7 +1,7 @@
 Enjeux et risques du cloud computing
 ========================
 
-Evaluation : etude de cas en groupe de 5, questions et recommandation
+Evaluation : étude de cas en groupe de 5, questions et recommandation
 
 ## Objectifs
 
@@ -177,3 +177,77 @@ L'Afrique et l'Asie sont les futurs consommateurs du Cloud, avec des acteurs dif
 * Cache (CDN, contenu fixe ou contenu dynamique)
 * Base de données (relationnel ou non, clé, documents, déconnecté, data-warehouse)
 * Sécurité
+
+## Les services du Cloud
+
+### Compute
+
+* Concepts-clefs : Service de Base du Cloud Computing qyu execute une charge applicative dans un environnement virtualisé
+* Risques : Vendor-locking, risque de ressources centralisés, perte de connaissance système, qualité variable
+* Enjeux : Consommer des ressources à la demande accessible instantanément pour construire une infrastructure disponible et sécurisé
+* Perspectives d'avenir : Consommation des ressources sans serveur (Server-Less) au temps d'execution
+
+Tendance à aller vers le Serverless, pas encore de gros framework dans ce domaine mais il existe des Open FaaS.
+
+Consommation stockage : nombre d'I/O à la seconde
+
+Choix de la puissance de Compute nécessite une vraie connaissance et un véritable accompagnement, pour améliorer ses performances, il faut apprendre comment automatiser et optimiser. La doc Amazon est très complète à ce niveau là.
+
+La tendance informatique va vers la consommation à la demande
+
+### Storage
+
+* Concepts-clefs : Service de base du Cloud Computing, qui stocke les données en objet ou en bloc, de manière centralisé ou directement
+* Risques : Modèle économique, dépendance application, sécurité
+* Enjeux : Disposé d'un espace de stockage illimité sauvegardé, distribué et accessible avec globalement de bonnes performances
+* Perspective d'avenir : Site statique et distribution web amélioré par du traitement dynamique sur les Edges
+
+Transforme les problématiques de stockage
+
+Possibilité de stockage de petaoctets de données dans des bandes sans faire les investissements initiaux
+
+Aujourd'hui, il est possible de passer des sites en statique ou pseudo-statique en optimisant et organisant bien les workflows et en effectuant des pré calculations des données
+
+### Database
+
+* Concepts-clefs : Déporter les logiciels de SGBD vers le cloud en bénéficiant des avancés de scaling et de traitement distribué
+* Risques : Maitrise des coûts, comptabilité applicative et maintenances / debug
+* Enjeux : Utiliser des bases de données adapté aux traitements, volumétrie, contraintes, avec des outils performants
+* Perspective d'avenir : Data Lake sur des peta octets de données, requetable hors ligne "non relationnel global", relationnel auto-scalable
+
+### Network
+
+* Concepts-clefs : Connectivité interne / externe, CDN, VPC, Région
+* Risques : Domaine qui nécessite une réel expertise mais de plus en plus abstrait  : métrique qui est le plus sur-facturé et qui rapporte aux CSP
+* Enjeux : Point stratégique pour lequel les investissements sont forts qui garantisse connectivité, performance et disponibilité de l'accés aux services et données
+* Perspective d'avenir : Network as Code, VNF
+
+Le tarif est à la taille de tuyau, on paye rarement le traffic entrant mais bcp le traffic sortant
+
+### Security
+
+* Concepts-clefs : Transposition des techniques de défense dans un périmètre cloud grace à un ensemble de produits / services pour se protéger des malveillances
+* Risques : Transformation en commodité alors que c'est un risque qui touche tous les métiers
+* Enjeux : Trouver le bon niveau, ne pas faire confiance aveugle dans les configurations, tester, auditer, vérifier
+* Perspectives d'avenir :  Utilisation du machine learning et d'outils de recommandation automatique, implication de plus en plus tôt dans les développements (dev-sec-ops)
+
+### Cost management
+
+* Concepts-clefs : aider les consommateurs cloud à effectuer leur transition
+* Enjeux : former le directeur financier et l'informer que le coût passe d'un coût d'investissement puis régulier à un coût variable et à la consommation
+* Risques : acceptation du changement, de la nouvelle forme de coût
+* Perspective d'avenir : les acteurs cloud se tâtent à changer leur méthode de coût pour éviter de tuer des licornes
+
+### IA - Machine Learning
+
+* Concepts-clefs : Mise à disposition de puissance de calculs amélioré par des puces spécifiques pour l'usage d'apprentissage profond ou de services à plus forte valeur ajouté d'IA
+* Enjeux : Savoir traiter et tirer des modèles automatiques pour tirer un avantage compétitif dans son métier depuis les données
+* Risques : Données privées, Ethiques, Changement social
+* Perspectives d'avenir : Généralisation, SaaS spécifique, Intelligence Générale
+
+### Autres
+
+* Migration : des outils qui facilite la migration
+* Marketplace : consommation des logiciels as Service (licence à l'usage), capitalisation et partage d'outils
+* Metrologie : Centralisation de journaux, système de métrologie et de monitoring, consolidation et traçabilité
+* Developer tools
