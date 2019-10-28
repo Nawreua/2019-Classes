@@ -184,3 +184,45 @@ Permet de gérer les chaînes de taille différentes
 Découper le problème en sous-problème redondants.
 
 On passe par une matrice pour la distance de Levensthein.
+
+### Séquençage multiple
+
+On effectue un alignement par paires puis on aligne ensuite les différents alignements entre eux. Il faut cependant faire attention à l'arbre guide.
+
+## Cellule Eukaryote
+
+Une cellule eukaryote a besoin de qqs heures tandis qu'une cellule prokaryote a en général besoin de qqs minutes.
+
+Les cellules eukaryotes et prokaryotes possèdent tous deux des ribosomes (ARN ribosomiques), qui transforment des ARN messagers pour les transfomer en protéines.
+
+Les eukaryotes ont des réticulum endoplasmique, auxquels s'accrochent des ribosomes, notamment le réticulum rugeux, qui ont des ribosomes injectant des protéines dans le réticulum, lui permettant de servir de poste pour les protéines.
+
+Le golgi sert lui aussi à livrer des protéines dans la cellule lorsqu'elle en a besoin.
+
+La cellule est encadrée par une membrane et possède un noyau en son sein. Les mitochondries à l'intérieur de la cellule produisent l'énergie de la cellule.
+
+Enfin, la cellule eukaryote posséde du lysosome, qui recycle les protéines utilisées à l'aide d'un pH faible, et du peroxisome qui capture tous les élèments toxiques pour la cellule pour les rejeter.
+
+Le nucleolus, contenu dans le noyau, contient l'ADN servant à coder les ARN ribosomiques.
+
+## BLAST
+
+Le développement de l'algo BLAST s'est fait en même temps que le développement de la Base de données Genbank, contenant des séquences avec des annotations et des données bibliographiques, ainsi que sa provenance.
+
+[Blast Website](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+
+[Eterna Game](https://eternagame.org/game/puzzle/6502927/)
+
+## Métagénomique
+
+A partir d'échantillon d'eau prélevée en pleine mer, on cherche sur BLAST les traces de ribosomes ARN 16S pour identifier efficacement les différentes espèces ou famille d'espèces présentes dans l'échantillon.
+
+## Cellules du corps humain
+
+Le foetus posséde à l'origine des cellules souches généralistes qui vont se spécialiser. Dans le corps humain, les cellules sont différenciées et ont chacun leur propre rôle.
+
+On peut dédifférencier des cellules pour les transformer en cellule plus généraliste et ainsi les redifférencier.
+
+En fonction de la phase du cycle cellulaire, l'ADN change de forme.
+
+Dans le noyau, l'ADN est divisé en territoire chromosomiques.
