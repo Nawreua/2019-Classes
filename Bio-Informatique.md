@@ -226,3 +226,67 @@ On peut dédifférencier des cellules pour les transformer en cellule plus gén�
 En fonction de la phase du cycle cellulaire, l'ADN change de forme.
 
 Dans le noyau, l'ADN est divisé en territoire chromosomiques.
+
+## Mailing list
+
+[Mailing list pour des offres en bio-informatique](www.sfbi.fr)
+
+## Instituts de recherche médicale à Paris
+
+* Institut Curie
+* Institut Pasteur
+* Institut du cerveau et de la moelle
+
+## Rappels
+
+La glycolyse est le processus qui transforme le glucose en pyruvate.
+
+Le pyruvate est transformé en acetyl-coa, afin d'activer le cycle de Krebs, produisant du NADH et du FADH2, en suivant le principe de la TCA.
+
+Les enzymes sont des protéines catalyseurs, servant à enclencher des réactions chimiques.
+
+Les ribosomes, composés d'ARN ribosomiques et de protéines, sert à la traduction d'ARN messager en protéines.
+
+Ces protéines, composés d'acides aminés, sont produites ou recyclées, à l'aide des lysosomes.
+
+## Déformation génétique
+
+Les gènes peuvent se chevaucher.
+
+La consanguinité entraine plus d'alléles récessif et des maladies génétiques.
+
+Comprendre l'origine des maladies ne permet pas de trouver nécessairement un traitement. La déformation se trouve dans toutes les cellules du corps et traiter l'ensemble des cellules devient très compliqué.)
+
+Pour identifier l'emplacement de la maladie, il faut prendre un groupe malade et un groupe sain. En comparant tout le génome ou juste une partie du génome, si une différence de position se retrouve plus, on peut identifier une coréllation.
+
+## Pathogène
+
+**Agent pathogène :** facteur capable d'engendrer une lésion ou de causer une maladie (processus morbide) chez les animaux ou les plantes
+
+* Bactéries
+* Parasites
+* Mycètes
+* Virus
+* Prions
+
+### Bactérie
+
+Une bactérie n'est pas toujours pathogène mais elle peut devenir pathogène, en se transformant au contact d'un ADN, en se transductant lorsqu'un virus bactériophage la dévore ou enfin en se conjuguant avec un plasmide.
+
+### Virus
+
+Les virus ne sont pas dans l'arbre du vivant. Son but est de se multiplier et de survivre. Les virus cherchent à s'accrocher à des récepteurs ou à des membranes cibles. Il va checher à encoder dans la cellule cible à s'auto-répliquer en répliquant des ARN messagers pour produire des protéines cibles. Un virus peut être sous de multiple forme : capsyde (enveloppe), membranes, etc...
+
+1. Pénétrer dans l'organisme (plaie, etc...)
+2. Pénétrer dans des cellules hôtes, en fonction des récepteurs
+3. Pénétrer dans le cytoplasme si besoin
+4. Pénétrer dans le noyau
+5. Insérer son matériel génétique (ADN) dans le génome de la cellule
+
+Les virus n'affectent pas que les cellules eukaryotes. Exemple : les phages, virus bactériophages
+
+Les virus n'ont pas de processus de correction d'erreur et mutent très vite. Cela rend leur traitement complexe.
+
+### Système immunitaire
+
+Les cellules T et B sont remplis de réticulum endoplasmiques afin de maximiser la production d'acide cytotoxique.
